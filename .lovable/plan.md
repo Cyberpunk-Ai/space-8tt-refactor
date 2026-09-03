@@ -65,5 +65,5 @@ src/
 ## Open questions
 
 1. Should the pricing page stay presentational for now, or do you want real Stripe checkout in this port?
-2Keep the "developer portal", "team workspaces", "custom branding", and "priority support" screens, or drop them from the first pass?
+2. Keep the "developer portal", "team workspaces", "custom branding", and "priority support" screens, or drop them from the first pass?
 3. Does any existing data in the repo's sqlite/json store need importing, or is seeded demo content fine?
